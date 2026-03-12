@@ -11,7 +11,7 @@ import java.util.Arrays;
 import java.util.List;
 
 
-@Component
+//@Component
 public class EmpoyeeRunner implements CommandLineRunner {
     @Autowired
     EmpRepo empRepo;
